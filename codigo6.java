@@ -1,6 +1,7 @@
 package codigoOtros6;
 
 import java.util.Scanner;
+//El código genera un arreglo de 20 números aleatorios entre 20 y 400, y luego resalta los múltiplos de 5 o 7
 
 public class codigo6 {
 	// Se agregó el método main
